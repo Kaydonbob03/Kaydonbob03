@@ -1,6 +1,6 @@
 # Hi, I'm Kayden Cormier 👋
 
-**Software developer · Numyn Software · Sault Ste. Marie, Ontario 🇨🇦**
+**Software developer · Numyn Software · Ontario, Canada 🇨🇦**
 
 I build practical software for everyday problems, from bookkeeping and inventory tools to web applications and Discord bots. I'm a Sault College Computer Programming diploma graduate (2025), with a particular interest in Python, full-stack web development, automation, and cybersecurity.
 
